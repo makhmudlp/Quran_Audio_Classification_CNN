@@ -1,6 +1,6 @@
 # 🎧 Quran Audio Classification using CNN
 
-This project implements a Convolutional Neural Network (CNN) for classifying
+Beginner ML project on Audio Classification. This project implements a Convolutional Neural Network (CNN) for classifying
 Quran recitation audio. Audio signals are converted into Mel-spectrograms
 and used as input to a CNN model.
 
